@@ -1,4 +1,4 @@
-﻿# M5_DE_NAVI
+﻿//M5_DE_NAVI
 
 #include <TinyGPSPlus.h>
 #include <M5Core2.h>
